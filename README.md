@@ -3,6 +3,7 @@ My personal project from 2022 focused on 3D scanning, modeling, animating, token
 
 ## Scanning:
 <img src="https://supercoolserver.azurewebsites.net/assets/img/Scanning.jpg"/>
+<img src="https://supercoolserver.azurewebsites.net/assets/img/Scanning.gif"/>
 
 ## Animation:
 <img src="https://supercoolserver.azurewebsites.net/assets/img/Animation.jpg"/>
