@@ -3,12 +3,15 @@ My personal project from 2022 focused on 3D scanning, modeling, animating, token
 
 ## Scanning:
 <img src="https://supercoolserver.azurewebsites.net/assets/img/Scanning.jpg"/>
+The scanning process was easy and fun. Here's the result after I ruined the texture:
 <img src="https://supercoolserver.azurewebsites.net/assets/img/Scanning.gif"/>
 
 ## Animation:
+I animated models using different techniques. The friend of mine I scanned didn't in fact know how to do the breakdance 1990's hand-spin.
 <img src="https://supercoolserver.azurewebsites.net/assets/img/Animation.gif"/>
 
 ## AR:
+The animated models even came to my apartment for a cup of coffee and some karate.
 <img src="https://supercoolserver.azurewebsites.net/assets/img/AR.gif"/>
 
 ## NFT-fication:
