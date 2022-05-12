@@ -12,6 +12,7 @@ I animated models using different techniques. The friend of mine I scanned didn'
 
 ## AR:
 The animated models even came to my apartment for a cup of coffee and some karate.
+
 <img src="https://supercoolserver.azurewebsites.net/assets/img/AR.gif"/>
 
 ## NFT-fication:
